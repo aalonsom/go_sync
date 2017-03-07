@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_sync&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go_socket/src/client" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPoolDyn" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPool" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcurrency" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/server" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/user" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferSingle" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferMulti" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/counter" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferChan" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/mine" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/types" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/messageHandler" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../go_socket/src/client" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPoolDyn" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcPool" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/serverConcurrency" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/server" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/user" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferSingle" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferMulti" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/counter" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/bufferChan" />
+      <root url="file://$PROJECT_DIR$/../go_conc/src/mine" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/types" />
+      <root url="file://$PROJECT_DIR$/../go_socket/src/messageHandler" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
